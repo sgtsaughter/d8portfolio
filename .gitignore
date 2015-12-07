@@ -19,6 +19,7 @@ sites/*/settings*.php
 #sites/*/files
 #sites/*/private
 sites/default/files/php
+sites/default/files/css
 
 # Ignore SimpleTest multi-site environment.
 sites/simpletest
