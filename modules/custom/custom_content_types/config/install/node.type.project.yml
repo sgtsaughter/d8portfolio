@@ -5,7 +5,7 @@ dependencies:
         module:
             - custom_content_types
 _core:
-    default_config_hash: TrUzKYIvZreW80Y4za5oGdq5jz4eONRmaK3J-_qFM_k
+    default_config_hash: JsgNfIevcFxzxPuAHVpjLYIGn9Ri87R8wzw6s0yz0lI
 name: Project
 type: project
 description: 'Create a project'

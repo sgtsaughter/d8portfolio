@@ -1,5 +1,8 @@
-name: Custom Content Types
+name: 'Custom Content Types'
 type: module
-description: Module for adding all custom content types
+description: 'Module for adding all custom content types'
 core: 8.x
 package: Custom
+dependencies:
+    - node
+    - user

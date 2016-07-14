@@ -4,12 +4,13 @@ dependencies:
     config:
         - field.field.node.project.field_description
         - field.field.node.project.field_project_image
+        - image.style.medium
         - node.type.project
     module:
         - image
         - user
 _core:
-    default_config_hash: dqT8prIgmDn0SF1MK-Q9sroDaXCS7XAcPhEx_SY73r8
+    default_config_hash: TBSu3dsw2nNWrleiAJjSlV6aaIFbKwf3HrxgeJ_von4
 id: node.project.default
 targetEntityType: node
 bundle: project
@@ -25,7 +26,7 @@ content:
         weight: 102
         label: above
         settings:
-            image_style: ''
+            image_style: large
             image_link: ''
         third_party_settings: {  }
         type: image

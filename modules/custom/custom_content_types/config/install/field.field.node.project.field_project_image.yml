@@ -7,7 +7,7 @@ dependencies:
     module:
         - image
 _core:
-    default_config_hash: gh8sEsyndb0r9DeCT7ehJYu5VfNmRDVXmv4Uzg03RiM
+    default_config_hash: ju12nbTbXpHDT6dFT7PYfiP6OzZSC2ZnTrIzNHvYVGE
 id: node.project.field_project_image
 field_name: field_project_image
 entity_type: node

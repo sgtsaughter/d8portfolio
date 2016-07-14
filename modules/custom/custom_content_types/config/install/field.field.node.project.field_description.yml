@@ -5,7 +5,7 @@ dependencies:
         - field.storage.node.field_description
         - node.type.project
 _core:
-    default_config_hash: DFF6QR0drTHjERihmZ90xgSvfq2G-bd72N453ajgqb4
+    default_config_hash: 1GS0TnzVeGi6kgv64HKszsMxt4UrP-oPrjCaOk7N-ew
 id: node.project.field_description
 field_name: field_description
 entity_type: node

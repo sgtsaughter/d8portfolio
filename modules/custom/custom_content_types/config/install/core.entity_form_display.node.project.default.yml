@@ -10,7 +10,7 @@ dependencies:
         - image
         - path
 _core:
-    default_config_hash: EVCMo5igmz_E3wKKFTp4lBnDliZf6LLkpRlqmzJ_0PQ
+    default_config_hash: bfFEXMNTevY3HB8H_QPIgRMV06s2CBr9rjXHOCwUX1M
 id: node.project.default
 targetEntityType: node
 bundle: project
