@@ -1,0 +1,15 @@
+langcode: en
+status: true
+dependencies:
+    enforced:
+        module:
+            - custom_content_types
+_core:
+    default_config_hash: TrUzKYIvZreW80Y4za5oGdq5jz4eONRmaK3J-_qFM_k
+name: Project
+type: project
+description: 'Create a project'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

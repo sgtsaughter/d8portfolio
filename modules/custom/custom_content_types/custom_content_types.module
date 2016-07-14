@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ * Contains custom_content_types.module..
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function custom_content_types_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the custom_content_types module.
+    case 'help.page.custom_content_types':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Module for adding all custom content types') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+
