@@ -1,0 +1,17 @@
+langcode: en
+status: false
+dependencies:
+  theme:
+    - sgtsaughters_portfolio
+id: sgtsaughters_portfolio_page_title
+theme: sgtsaughters_portfolio
+region: page_title
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }
