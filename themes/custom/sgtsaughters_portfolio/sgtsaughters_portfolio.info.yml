@@ -1,0 +1,10 @@
+name: Sgt Saughter's Portfolio
+type: theme
+description: Theme for my portfolio using Business Group Zymphonies as base theme
+package: Other
+core: 8.x
+libraries:
+  - sgtsaughters_portfolio/global-styling
+
+base theme: businessgroup_zymphonies_theme
+
