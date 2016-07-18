@@ -20,7 +20,6 @@ use Drupal\file\Plugin\Core\Entity\FileInterface;
  */
 
 function sgtsaughters_portfolio_preprocess_page(&$variables) {
-
   // Add Responsive class for Top Widget.
   if (!empty($variables['page']['topwidget_first']) && !empty($variables['page']['topwidget_second']) && !empty($variables['page']['topwidget_third'])) {
     $variables['topwidget_class'] = 'col-sm-4';
