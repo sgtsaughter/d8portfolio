@@ -1,5 +1,5 @@
 global-components:
   Version: 1.x
   css:
-    base:
+    theme:
       css/styles.css: {}

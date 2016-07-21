@@ -67,3 +67,7 @@
 .breadcrumb-list li:last-child a:after { border: 0; }
 .breadcrumb-list li a:hover { background: hsla(203,58%,38%,1); }
 .breadcrumb-list li a:hover:after { border-left-color: hsla(203,58%,38%,1) !important; }
+
+.main-header nav {
+  z-index: 501 ;
+}
