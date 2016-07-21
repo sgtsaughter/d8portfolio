@@ -4,5 +4,7 @@ description: 'Module for adding all custom content types'
 core: 8.x
 package: Custom
 dependencies:
-    - node
-    - user
+    0: node
+    1: user
+    2: image
+    4: text

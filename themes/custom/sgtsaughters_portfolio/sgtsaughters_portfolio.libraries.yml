@@ -1,0 +1,5 @@
+global-components:
+  Version: 1.x
+  css:
+    base:
+      css/styles.css: {}
